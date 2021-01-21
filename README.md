@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 Just a nerd here
+🌱 Just a tech enthusiast here
 
 <!--
 **muazwzxv/muazwzxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
