@@ -1,8 +1,9 @@
 ### Hi there 👋
 🌱 Just a tech enthusiast here
 
-![muazwzxv's github stats](https://github-readme-stats.vercel.app/api?username=muazwzxv&count_private=false&show_icons=true&&theme=dracula&include_all_commits=true)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazwzxv&layout=compact&theme=dracula)
+![muazwzxv's github stats](https://github-readme-stats.vercel.app/api?username=muazwzxv&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true)   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazwzxv&layout=compact&theme=synthwave&hide=css, php)
 
 ### Still a noob in infosec, but i'm getting there
 
