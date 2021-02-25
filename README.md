@@ -5,7 +5,7 @@ Currently leaning towards Backend development, Sytstem design and architecture, 
 
 ![muazwzxv's github stats](https://github-readme-stats.vercel.app/api?username=muazwzxv&count_private=true&show_icons=true&&theme=dark&include_all_commits=true)   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazwzxv&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazwzxv&layout=compact&theme=dark&langs_count=8)
 
 
 ### Still a noob in infosec, but i'm getting there
