@@ -7,7 +7,7 @@ Currently leaning towards Backend Application, Sytstem Architect and Databases. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazwzxv&layout=compact&theme=dark&langs_count=8&exclude_repo=bookers-BE)
 
-
+<!--
 ### Still a noob in infosec, but i'm getting there
 <!--
 ![cilantroz](https://www.hackthebox.eu/badge/image/189661)
