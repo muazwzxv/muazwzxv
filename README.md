@@ -9,7 +9,7 @@ Currently leaning towards Backend Application, Sytstem Architect and Databases. 
 
 
 ### Still a noob in infosec, but i'm getting there
-
+<!--
 ![cilantroz](https://www.hackthebox.eu/badge/image/189661)
 
 <!--
