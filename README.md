@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 Just a tech enthusiast here
 
-Currently leaning towards Backend Application, Sytstem Architect and Databases. I'm a curious person and It will bring me enormous pleasure to be able to understand sophisticated concepts let alone implementing it myself. A noob in infosec, I'm on it, I'll update this when im no longer a script kiddie on htb
+Currently leaning towards Backend Application, Sytstem Architect and Databases. I'm a curious person and It will bring me enormous pleasure to be able to understand sophisticated concepts let alone implementing it myself. See myself as an eternal learner and a student to something, lowkey loves teaching.
 
 ![muazwzxv's github stats](https://github-readme-stats.vercel.app/api?username=muazwzxv&count_private=true&show_icons=true&&theme=dark&include_all_commits=true)   
 
