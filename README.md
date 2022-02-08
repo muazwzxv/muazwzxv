@@ -6,7 +6,7 @@ Currently leaning towards Backend Engineering, Sytstem Design & Architect and Da
 My stack currently is 
 - **Java + Spring Boot**
 - **Go + Fiber**
-- **Node js + Typescript (Nest js, Express)**
+- **Node JS + Typescript (Nest JS, Express)**
 - **Mysql | Postgres | MongoDB**
 
 
