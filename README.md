@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 Just a tech enthusiast here
 
-Currently leaning towards Backend Engineering, Sytstem Design & Architect and Databases. I'm a curious person and It will bring me enormous pleasure to be able to understand sophisticated concepts let alone implementing it myself. Trying hard to be really good at data structures and algorithms & good programming habits. See myself as an eternal learner and a always student to something, lowkey loves teaching.
+Currently leaning towards Backend Engineering, Sytstem Design & Architect and Databases. I'm a curious person and It will bring me enormous pleasure to be able to understand sophisticated concepts let alone implementing it myself. Trying hard to be really good at data structures and algorithms & good programming habits. See myself as an eternal learner and always a student to something, lowkey loves teaching.
 
 My stack currently is 
 
