@@ -1,7 +1,24 @@
 ### Hi there 👋
 🌱 Just a tech enthusiast here
+--- 
 
-Currently leaning towards Backend Engineering, Sytstem Design & Architecture and Distributed System. I'm a curious person and It will bring me enormous pleasure to be able to understand sophisticated concepts let alone implementing it myself. Trying hard to be really good at data structures and algorithms & good programming habits. See myself as an eternal learner and always a student to something, lowkey loves teaching.
+Supp guys, My name is Muaz. currently I'm a backend software engineer from Malaysia 🇲🇾. I love backend engineering, anything related to system design and architecture, distributed systems and cloud infrastructures. I'm an enthusiaste that's always curious and obsessed with improving. Forever a student to something and would love to be a teacher or mentor to someone who shares the same passion and curiosity
+
+<picture> <img align="right"  src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+### Some details about me
+- Software Engineer at [Xsolla](https://xsolla.com/)
+- I'm a Backend developer writing mostly in Go 
+- I turn 24 in 2023 
+- I love the idea of mentoring and giving back to the community. So do hit me up if you're a student somewhere in Malaysia 🌱
+
+
+
+### Skills
+***Language*** - ```[Java, Go, Typescript, Javascript]```
+***Databases*** - ```[Mysql, Postgresql, MongoDB, Redis]```
+***Cloud*** - ```[Google Cloud Platform, Heroku, Linode]```
+***Framework*** - ```[Gin, Go Fiber, Spring Boot, Nest js, Express]```
 
 ![muazwzxv's github stats](https://github-readme-stats.vercel.app/api?username=muazwzxv&count_private=true&show_icons=true&&theme=dark&include_all_commits=true)   
 
