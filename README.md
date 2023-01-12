@@ -11,7 +11,6 @@ Supp guys, My name is Muaz. currently I'm a backend software engineer from Malay
 - I'm a Backend developer writing mostly in Go 
 - I turn 24 in 2023 
 - I love the idea of mentoring and giving back to the community. So do hit me up if you're a student somewhere in Malaysia 🌱
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### Skills
@@ -19,14 +18,7 @@ Supp guys, My name is Muaz. currently I'm a backend software engineer from Malay
 - ***Databases***: ```[Mysql, Postgresql, MongoDB, Redis]```
 - ***Cloud***: ```[Google Cloud Platform, Heroku, Linode]```
 - ***Framework***: ```[Gin, Go Fiber, Spring Boot, Nest js, Express]```
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-### Github Stats
-
-![muazwzxv's github stats](https://github-readme-stats.vercel.app/api?username=muazwzxv&count_private=true&show_icons=true&&theme=dark&include_all_commits=true)   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazwzxv&layout=compact&theme=dark&langs_count=8&exclude_repo=bookers-BE,ASL-Detection)
 
 
 
