@@ -18,7 +18,7 @@ Supp guys, My name is Muaz. currently I'm a backend software engineer from Malay
 - ***Language***: ```[Java, Go, Typescript, Javascript]```
 - ***Databases***: ```[Mysql, Postgresql, MongoDB, Redis]```
 - ***Cloud***: ```[Google Cloud Platform, Heroku, Linode]```
-- ***Framework***: ```[Gin, Go Fiber, Spring Boot, Nest js, Express]```
+- ***Framework***: ```[Gin, Fiber, Chi, Spring Boot, Nest js, Express] - Mostly stuff I tried/used it```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
