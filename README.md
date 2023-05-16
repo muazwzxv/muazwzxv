@@ -10,7 +10,7 @@ Supp guys, My name is Muaz. currently I'm a backend software engineer from Malay
 - Software Engineer at [Xsolla](https://xsolla.com/)
 - I'm a Backend developer writing mostly in Go 
 - I turn 24 in 2023 
-- I love the idea of mentoring and giving back to the community. So do hit me up if you're a student somewhere in Malaysia 🌱
+- Always looking for an opportunity to grow here 🌱
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
