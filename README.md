@@ -12,9 +12,6 @@ Supp guys, My name is Muaz. currently I'm a backend software engineer from Malay
 - I turn 24 in 2023 
 - Always looking for an opportunity to grow here 🌱
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
 <!--
 **muazwzxv/muazwzxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![cilantroz](https://www.hackthebox.eu/badge/image/189661)
