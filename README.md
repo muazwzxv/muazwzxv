@@ -8,7 +8,7 @@ Supp guys, My name is Muaz. currently I'm a backend software engineer from Malay
 
 ### Some details about me
 - Software Engineer at [Xsolla](https://xsolla.com/)
-- I'm a Backend developer writing mostly in Go 
+- I'm a Backend developer 
 - I turn 24 in 2023 
 - Always looking for an opportunity to grow here 🌱
 
