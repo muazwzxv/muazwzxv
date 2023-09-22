@@ -4,10 +4,8 @@
 
 Supp guys, My name is Muaz. currently I'm a backend software engineer from Malaysia 🇲🇾. Definitely have a thing for backend development, anything related to system design and architecture, distributed systems and cloud infrastructures. I'm an enthusiast that's always curious and obsessed with improving. Forever a student to something and would love to be a teacher or mentor to someone who shares the same passion and curiosity
 
-<picture> <img align="right"  src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 ### Some details about me
-- Software Engineer at [Xsolla](https://xsolla.com/)
+- Software Engineer at [GxBank]()
 - I'm a Backend developer 
 - I turn 24 in 2023 
 - Always looking for an opportunity to grow here 🌱
