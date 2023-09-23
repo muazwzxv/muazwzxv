@@ -1,13 +1,12 @@
 ### Hi there 👋
 🌱 Just a tech enthusiast here
---- 
 
-Supp guys, My name is Muaz. currently I'm a backend software engineer from Malaysia 🇲🇾. Definitely have a thing for backend development, anything related to system design and architecture, distributed systems and cloud infrastructures. I'm an enthusiast that's always curious and obsessed with improving. Forever a student to something and would love to be a teacher or mentor to someone who shares the same passion and curiosity
+Supp guys, My name is Muaz. currently, I'm a backend software engineer from Malaysia 🇲🇾. I definitely have a thing for backend development, anything related to system design and architecture, distributed systems and cloud infrastructures. I'm an enthusiast who's always curious and obsessed with improving. I am forever a student of something and would love to be a teacher or mentor to someone who shares the same passion and curiosity
 
 ### Some details about me
 - Software Engineer at [GxBank]()
 - I'm a Backend developer 
-- I turn 24 in 2023 
+- I turn 24 in 2023 🤯
 - Always looking for an opportunity to grow here 🌱
 
 <!--
