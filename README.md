@@ -6,7 +6,7 @@ Supp guys, My name is Muaz. currently, I'm a backend software engineer from Mala
 ### Some details about me
 - Software Engineer at [GxBank](https://gxbank.my/)
 - I'm a Backend developer 
-- I turn 24 in 2023 🤯
+- I turn 25 in 2024 🤯
 - Always looking for an opportunity to grow here 🌱
 
 <!--
