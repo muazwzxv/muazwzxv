@@ -11,7 +11,6 @@ I'm heavily influenced by
 ### Some details about me
 - Software Engineer at [GxBank](https://gxbank.my/)
 - I'm a Backend developer 
-- I turn 25 in 2024 🤯
 - Always looking for an opportunity to grow here 🌱
 
 <!--
